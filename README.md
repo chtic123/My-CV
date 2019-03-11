@@ -1,5 +1,5 @@
 # Teac
-### 🏠 深圳
-### 📧 87691805@qq.com
+###### 🏠 深圳
+###### 📧 87691805@qq.com
 ---
-1. [手写promise](./src.MyPromise.js)
+1. [手写promise](./src/MyPromise/js)
